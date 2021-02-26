@@ -1,0 +1,25 @@
+.product{
+    display: flex;
+    border-bottom:1px solid  lightgray;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+.product-name h4{
+    font-size: 20px;
+    color: blue;
+    margin-left: 40px;
+}
+
+.product-name p{
+ 
+    margin-left: 40px;
+}
+.main-button{
+    margin-left: 20px;
+    background-color: goldenrod;
+    width: 150px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
